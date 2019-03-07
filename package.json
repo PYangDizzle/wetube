@@ -1,0 +1,11 @@
+{
+  "name": "nomadcoders2",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "Patrick Yang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
